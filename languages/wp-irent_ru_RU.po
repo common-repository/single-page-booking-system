@@ -1,0 +1,271 @@
+# Copyright (C) 2024 i-rent.net
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: i-rent.net 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/irent\n"
+"POT-Creation-Date: 2024-01-25T14:13:00+01:00\n"
+"PO-Revision-Date: 2024-01-25 10:22-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: single-page-booking-system\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "i-rent.net"
+msgstr "i-rent.net"
+
+#. Description of the plugin
+msgid "Property management system for holiday homes (PMS)"
+msgstr "Система управления недвижимостью для домов отдыха (PMS)"
+
+#. Author URI of the plugin
+msgid "https://i-rent.net"
+msgstr "https://i-rent.net"
+
+#: wp-irent.php:336
+msgid "Error: Invalid page ID."
+msgstr "Ошибка: Неверный идентификатор страницы."
+
+#: wp-irent.php:370
+msgid "Error: Failed to update the page content."
+msgstr "Ошибка: Не удалось обновить содержимое страницы."
+
+#: wp-irent.php:375
+msgid ""
+"Your settings were saved correctly, please check your landing page to "
+"display the search engine."
+msgstr ""
+"Ваши настройки были сохранены правильно, пожалуйста, проверьте, отображается "
+"ли на вашей целевой странице поисковая система."
+
+#: wp-irent.php:452
+msgid "Invalid API data."
+msgstr "Неверные данные API."
+
+#: wp-irent.php:469
+msgid "Error when making the API request."
+msgstr "Ошибка при выполнении запроса API."
+
+#: wp-irent.php:473
+msgid "Invalid response code."
+msgstr "Неверный код ответа."
+
+#: wp-irent.php:479
+msgid "Username or password is incorrect."
+msgstr "Имя пользователя или пароль неверны."
+
+#: wp-irent.php:483
+msgid "Error: You must fill in all fields (username and password)."
+msgstr "Ошибка: Вы должны заполнить все поля (имя пользователя и пароль)."
+
+#: wp-irent.php:486
+msgid "Unexpected response code: "
+msgstr "Неожиданный код ответа: "
+
+#: wp-irent.php:628
+msgid "Wrong Page ID."
+msgstr "Неверный идентификатор страницы."
+
+#: wp-irent.php:629
+msgid "No language selected."
+msgstr "Язык не выбран."
+
+#: wp-irent.php:630
+msgid "No colour selected."
+msgstr "Цвет не выбран."
+
+#: wp-irent.php:631
+msgid "No accommodation selected."
+msgstr "Размещение не выбрано."
+
+#: wp-irent.php:671
+msgid "The shortcode has been created successfully"
+msgstr "Шорткод был успешно создан"
+
+#: wp-irent.php:702
+msgid "You are logged out"
+msgstr "Вы вышли из системы"
+
+#: wp-irent.php:718
+msgid "The ShortCode has been cleared from all published pages."
+msgstr "ShortCode был удален со всех опубликованных страниц."
+
+#: wp-irent.php:760
+msgid "Missing required configuration data."
+msgstr "Отсутствуют необходимые данные конфигурации."
+
+#: wp-irent.php:768
+msgid "Booking system - Channel Gateway - Management"
+msgstr "Система бронирования - Шлюз канала - Управление"
+
+#: wp-irent.php:780
+msgid "Configuration of the booking script"
+msgstr "Конфигурация сценария бронирования"
+
+#: wp-irent.php:784
+msgid "Booking Source/WebSite:"
+msgstr "Источник бронирования/веб-сайт:"
+
+#: wp-irent.php:797
+msgid ""
+"Choose from the list any of your websites published from your i-rent.net "
+"account to list the accommodations published on it."
+msgstr ""
+"Выберите из списка любой из ваших сайтов, опубликованных с вашего аккаунта i-"
+"rent.net, чтобы перечислить опубликованные на нем объекты жилья."
+
+#: wp-irent.php:801
+msgid "Language:"
+msgstr "Язык:"
+
+#: wp-irent.php:807
+msgid "English"
+msgstr "Английский язык"
+
+#: wp-irent.php:808
+msgid "Spanish"
+msgstr "Испанский"
+
+#: wp-irent.php:809
+msgid "Dutch"
+msgstr "Голландия"
+
+#: wp-irent.php:810
+msgid "French"
+msgstr "Французский"
+
+#: wp-irent.php:811
+msgid "German"
+msgstr "Немецкий язык"
+
+#: wp-irent.php:820
+msgid ""
+"Choose the language in which the accommodation search and booking engine."
+msgstr ""
+"Выберите язык, на котором будет отображаться система поиска и бронирования "
+"жилья."
+
+#: wp-irent.php:824
+msgid "Theme:"
+msgstr "Тема:"
+
+#: wp-irent.php:830
+msgid "Beige"
+msgstr "Бежевый"
+
+#: wp-irent.php:831
+msgid "Blue"
+msgstr "Голубой"
+
+#: wp-irent.php:832
+msgid "Green"
+msgstr "Зеленый"
+
+#: wp-irent.php:833
+msgid "Red"
+msgstr "Красный"
+
+#: wp-irent.php:834
+msgid "Light blue"
+msgstr "Синий цвет"
+
+#: wp-irent.php:835
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: wp-irent.php:844
+msgid ""
+"Select from the options the colour palette that best suits your website."
+msgstr ""
+"Выберите из предложенных вариантов цветовую палитру, наиболее подходящую для "
+"вашего сайта."
+
+#: wp-irent.php:848
+msgid "Google Map Api Key:"
+msgstr "Ключ Google Map Api:"
+
+#: wp-irent.php:851
+msgid ""
+"For the accommodation map to display correctly, you must have the map code "
+"generated in your Google Cloud Platform account."
+msgstr ""
+"Чтобы карта размещения отображалась корректно, в вашем аккаунте Google Cloud "
+"Platform должен быть сгенерирован код карты."
+
+#: wp-irent.php:855
+msgid "Destination Page:"
+msgstr "Страница назначения:"
+
+#: wp-irent.php:858
+msgid "None Page"
+msgstr "Нет страницы"
+
+#: wp-irent.php:869
+msgid ""
+"Select the page where you want the accommodation search and booking engine "
+"to be displayed."
+msgstr ""
+"Выберите страницу, на которой будет отображаться система поиска и "
+"бронирования жилья."
+
+#: wp-irent.php:876
+msgid "ShortCode:"
+msgstr "ShortCode:"
+
+#: wp-irent.php:880
+msgid "View current page"
+msgstr "Посмотреть текущую страницу"
+
+#: wp-irent.php:883
+msgid "Copy and paste the following shortcode into the desired page:"
+msgstr "Скопируйте и вставьте следующий шорткод на нужную страницу:"
+
+#: wp-irent.php:890
+msgid "Clear ShortCode:"
+msgstr "Очистить короткий код:"
+
+#: wp-irent.php:893
+msgid "Clear"
+msgstr "Стереть"
+
+#: wp-irent.php:894
+msgid ""
+"If you need to clear the ShortCode from all your pages, please click the "
+"button. Please note, this action cannot be undone."
+msgstr ""
+"Если вам нужно удалить ShortCode со всех страниц, нажмите на кнопку. "
+"Обратите внимание, что это действие нельзя отменить."
+
+#: wp-irent.php:905
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: wp-irent.php:906
+msgid "Log Out"
+msgstr "Выйти из системы"
+
+#: wp-irent.php:927
+msgid "Booking System - Channel Gateway - Management"
+msgstr "Система бронирования - Шлюз канала - Управление"
+
+#: wp-irent.php:938
+msgid "Welcome to your holiday rental booking system"
+msgstr "Добро пожаловать в систему бронирования аренды жилья"
+
+#: wp-irent.php:941
+msgid "User:"
+msgstr "Пользователь:"
+
+#: wp-irent.php:945
+msgid "Password:"
+msgstr "Пароль:"
+
+#: wp-irent.php:950
+msgid "Login"
+msgstr "Вход в систему"

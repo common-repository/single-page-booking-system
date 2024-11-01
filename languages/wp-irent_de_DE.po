@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/irent\n"
+"POT-Creation-Date: 2024-01-25T14:13:00+01:00\n"
+"PO-Revision-Date: 2024-01-25 10:15-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: .\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "i-rent.net"
+msgstr "i-rent.net"
+
+#. Description of the plugin
+msgid "Property management system for holiday homes (PMS)"
+msgstr "Immobilienverwaltungssystem für Ferienhäuser (PMS)"
+
+#. Author URI of the plugin
+msgid "https://i-rent.net"
+msgstr "https://i-rent.net"
+
+#: wp-irent.php:336
+msgid "Error: Invalid page ID."
+msgstr "Fehler: Ungültige Seiten-ID."
+
+#: wp-irent.php:370
+msgid "Error: Failed to update the page content."
+msgstr "Fehler: Die Aktualisierung des Seiteninhalts ist fehlgeschlagen."
+
+#: wp-irent.php:375
+msgid ""
+"Your settings were saved correctly, please check your landing page to "
+"display the search engine."
+msgstr ""
+"Ihre Einstellungen wurden korrekt gespeichert, bitte überprüfen Sie Ihre "
+"Landing Page, um die Suchmaschine anzuzeigen."
+
+#: wp-irent.php:452
+msgid "Invalid API data."
+msgstr "Ungültige API-Daten."
+
+#: wp-irent.php:469
+msgid "Error when making the API request."
+msgstr "Fehler beim Erstellen der API-Anforderung."
+
+#: wp-irent.php:473
+msgid "Invalid response code."
+msgstr "Ungültiger Antwortcode."
+
+#: wp-irent.php:479
+msgid "Username or password is incorrect."
+msgstr "Der Benutzername oder das Passwort ist falsch."
+
+#: wp-irent.php:483
+msgid "Error: You must fill in all fields (username and password)."
+msgstr "Fehler: Sie müssen alle Felder ausfüllen (Benutzername und Passwort)."
+
+#: wp-irent.php:486
+msgid "Unexpected response code: "
+msgstr "Unerwarteter Antwortcode: "
+
+#: wp-irent.php:628
+msgid "Wrong Page ID."
+msgstr "Falsche Seiten-ID."
+
+#: wp-irent.php:629
+msgid "No language selected."
+msgstr "Keine Sprache ausgewählt."
+
+#: wp-irent.php:630
+msgid "No colour selected."
+msgstr "Keine Farbe ausgewählt."
+
+#: wp-irent.php:631
+msgid "No accommodation selected."
+msgstr "Keine Unterkunft ausgewählt."
+
+#: wp-irent.php:671
+msgid "The shortcode has been created successfully"
+msgstr "Der Shortcode wurde erfolgreich erstellt"
+
+#: wp-irent.php:702
+msgid "You are logged out"
+msgstr "Sie sind abgemeldet"
+
+#: wp-irent.php:718
+msgid "The ShortCode has been cleared from all published pages."
+msgstr "Der ShortCode wurde von allen veröffentlichten Seiten entfernt."
+
+#: wp-irent.php:760
+msgid "Missing required configuration data."
+msgstr "Fehlende erforderliche Konfigurationsdaten."
+
+#: wp-irent.php:768
+msgid "Booking system - Channel Gateway - Management"
+msgstr "Buchungssystem - Channel Gateway - Verwaltung"
+
+#: wp-irent.php:780
+msgid "Configuration of the booking script"
+msgstr "Konfiguration des Buchungsskripts"
+
+#: wp-irent.php:784
+msgid "Booking Source/WebSite:"
+msgstr "Buchungsquelle/WebSite:"
+
+#: wp-irent.php:797
+msgid ""
+"Choose from the list any of your websites published from your i-rent.net "
+"account to list the accommodations published on it."
+msgstr ""
+"Wählen Sie aus der Liste eine Ihrer Websites aus, die Sie über Ihr i-rent."
+"net-Konto veröffentlicht haben, um die darauf veröffentlichten Unterkünfte "
+"aufzulisten."
+
+#: wp-irent.php:801
+msgid "Language:"
+msgstr "Sprache:"
+
+#: wp-irent.php:807
+msgid "English"
+msgstr "Englisch"
+
+#: wp-irent.php:808
+msgid "Spanish"
+msgstr "Spanisch"
+
+#: wp-irent.php:809
+msgid "Dutch"
+msgstr "Niederländisch"
+
+#: wp-irent.php:810
+msgid "French"
+msgstr "Französisch"
+
+#: wp-irent.php:811
+msgid "German"
+msgstr "Deutsch"
+
+#: wp-irent.php:820
+msgid ""
+"Choose the language in which the accommodation search and booking engine."
+msgstr ""
+"Wählen Sie die Sprache aus, in der die Such- und Buchungsmaschine für "
+"Unterkünfte angezeigt werden soll."
+
+#: wp-irent.php:824
+msgid "Theme:"
+msgstr "Thema:"
+
+#: wp-irent.php:830
+msgid "Beige"
+msgstr "Beige"
+
+#: wp-irent.php:831
+msgid "Blue"
+msgstr "Blau"
+
+#: wp-irent.php:832
+msgid "Green"
+msgstr "Grün"
+
+#: wp-irent.php:833
+msgid "Red"
+msgstr "Rot"
+
+#: wp-irent.php:834
+msgid "Light blue"
+msgstr "Helles Blau"
+
+#: wp-irent.php:835
+msgid "Orange"
+msgstr "Orange"
+
+#: wp-irent.php:844
+msgid ""
+"Select from the options the colour palette that best suits your website."
+msgstr ""
+"Wählen Sie aus den Optionen die Farbpalette aus, die am besten zu Ihrer "
+"Website passt."
+
+#: wp-irent.php:848
+msgid "Google Map Api Key:"
+msgstr "Google Map Api Schlüssel:"
+
+#: wp-irent.php:851
+msgid ""
+"For the accommodation map to display correctly, you must have the map code "
+"generated in your Google Cloud Platform account."
+msgstr ""
+"Damit die Unterkunftskarte korrekt angezeigt wird, müssen Sie den Kartencode "
+"in Ihrem Google Cloud Platform-Konto generieren lassen."
+
+#: wp-irent.php:855
+msgid "Destination Page:"
+msgstr "Zielseite:"
+
+#: wp-irent.php:858
+msgid "None Page"
+msgstr "Keine Seite"
+
+#: wp-irent.php:869
+msgid ""
+"Select the page where you want the accommodation search and booking engine "
+"to be displayed."
+msgstr ""
+"Wählen Sie die Seite, auf der die Such- und Buchungsmaschine für Unterkünfte "
+"angezeigt werden soll."
+
+#: wp-irent.php:876
+msgid "ShortCode:"
+msgstr "ShortCode:"
+
+#: wp-irent.php:880
+msgid "View current page"
+msgstr "Aktuelle Seite anzeigen"
+
+#: wp-irent.php:883
+msgid "Copy and paste the following shortcode into the desired page:"
+msgstr ""
+"Kopieren Sie den folgenden Shortcode und fügen Sie ihn auf der gewünschten "
+"Seite ein:"
+
+#: wp-irent.php:890
+msgid "Clear ShortCode:"
+msgstr "ShortCode löschen:"
+
+#: wp-irent.php:893
+msgid "Clear"
+msgstr "Klar"
+
+#: wp-irent.php:894
+msgid ""
+"If you need to clear the ShortCode from all your pages, please click the "
+"button. Please note, this action cannot be undone."
+msgstr ""
+"Wenn Sie den ShortCode von allen Ihren Seiten löschen möchten, klicken Sie "
+"bitte auf die Schaltfläche. Bitte beachten Sie, dass diese Aktion nicht "
+"rückgängig gemacht werden kann."
+
+#: wp-irent.php:905
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: wp-irent.php:906
+msgid "Log Out"
+msgstr "Abmelden"
+
+#: wp-irent.php:927
+msgid "Booking System - Channel Gateway - Management"
+msgstr "Buchungssystem - Channel Gateway - Verwaltung"
+
+#: wp-irent.php:938
+msgid "Welcome to your holiday rental booking system"
+msgstr "Willkommen bei Ihrem Buchungssystem für Ferienunterkünfte"
+
+#: wp-irent.php:941
+msgid "User:"
+msgstr "Benutzer:"
+
+#: wp-irent.php:945
+msgid "Password:"
+msgstr "Kennwort:"
+
+#: wp-irent.php:950
+msgid "Login"
+msgstr "Anmeldung"

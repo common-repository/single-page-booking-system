@@ -1,0 +1,80 @@
+
+.custom-select {
+  width: 100%; /* Adjust the width according to your needs */
+  padding: 8px; /* Adjust the padding to suit your needs */
+  font-size: 14px; /* Adjust the font size to suit your needs */
+  border: 1px solid #ccc; /* Set the border according to your needs */
+  border-radius: 4px; /* Adjust the border radius to suit your needs */
+}
+
+/* Styles to make it responsive */
+@media screen and (max-width: 600px) {
+  .custom-select {
+    font-size: 12px; /* Reduce font size for small screens */
+  }
+}
+
+/* Styles for divs */
+ .box2 {
+  width: 30%;
+  background-color: #fff;
+}
+
+.box1 {
+  width: 32%;
+  /* Remove the white background */
+  background-color: transparent;
+  /* We centre the image horizontally and vertically. */
+  display: flex;
+  justify-content: left;
+  align-items: left;
+}
+
+/* Styles for the image within the first div */
+.responsive-image {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  /* We prevent the image from having unnecessary margins. */
+  display: block;
+}
+
+/* Additional styles for the second div */
+.box2 {
+  padding: 20px;
+}
+
+.button-secondary {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 11px;
+  line-height: 26px;
+  height: 10px;
+  margin: 0;
+  padding: 0 10px 1px;
+  cursor: pointer;
+  border-width: 1px;
+  border-style: solid;
+
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  white-space: nowrap;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.button-primary.error{
+  background-color: #ff6f6f;
+}
+.button-primary.error:hover{
+  background-color: #ff3c3c;
+}
+.button-primary.error:active{
+  background-color: #ff3c3c;
+}
+.button-primary.error:focus {
+  box-shadow: 0 0 0 1px #fff, 0 0 0 3px #ff3c3c;
+  background: #ff3c3c;
+  background-color: #ff3c3c;
+}

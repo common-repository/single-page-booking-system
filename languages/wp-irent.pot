@@ -1,0 +1,296 @@
+# Copyright (C) 2024 i-rent.net
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: i-rent.net 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/irent\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-12T13:29:53+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: wp-irent\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "i-rent.net"
+msgstr ""
+
+#. Description of the plugin
+msgid "Property management system for holiday homes (PMS)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://i-rent.net"
+msgstr ""
+
+#: wp-irent.php:113
+msgid "Invalid API data."
+msgstr ""
+
+#: wp-irent.php:131
+#: wp_irent_bak.php:177
+#: wp_irent_bak.php:432
+#: wp_irent_bak_2.php:249
+msgid "Error when making the API request."
+msgstr ""
+
+#: wp-irent.php:135
+msgid "Invalid response code."
+msgstr ""
+
+#: wp-irent.php:139
+#: wp_irent_bak_2.php:288
+msgid "Username or password is incorrect"
+msgstr ""
+
+#: wp-irent.php:140
+#: wp_irent_bak.php:145
+#: wp_irent_bak_2.php:212
+msgid "Error: You must fill in all fields (username and password)."
+msgstr ""
+
+#: wp-irent.php:142
+msgid "Unexpected response code: "
+msgstr ""
+
+#: wp-irent.php:308
+msgid "You are logged out"
+msgstr ""
+
+#: wp-irent.php:451
+#: wp_irent_bak.php:355
+#: wp_irent_bak_2.php:402
+msgid "Your settings were saved correctly, please check your landing page to display the search engine."
+msgstr ""
+
+#: wp-irent.php:470
+msgid "The ShortCode has been cleared from all published pages."
+msgstr ""
+
+#: wp-irent.php:493
+msgid "Missing required configuration data."
+msgstr ""
+
+#: wp-irent.php:500
+#: wp_irent_bak.php:483
+#: wp_irent_bak_2.php:433
+msgid "Booking system - Channel Gateway - Management"
+msgstr ""
+
+#: wp-irent.php:504
+#: wp_irent_bak.php:487
+#: wp_irent_bak_2.php:437
+msgid "Configuration of the booking script"
+msgstr ""
+
+#: wp-irent.php:508
+#: wp_irent_bak.php:491
+#: wp_irent_bak_2.php:441
+msgid "Booking Source/WebSite:"
+msgstr ""
+
+#: wp-irent.php:521
+#: wp_irent_bak.php:513
+#: wp_irent_bak_2.php:457
+msgid "Choose from the list any of your websites published from your <strong>i-rent.net</strong> account to list the accommodations published on it."
+msgstr ""
+
+#: wp-irent.php:526
+#: wp_irent_bak.php:517
+#: wp_irent_bak_2.php:461
+msgid "Language:"
+msgstr ""
+
+#: wp-irent.php:532
+#: wp_irent_bak.php:559
+#: wp_irent_bak_2.php:476
+msgid "English"
+msgstr ""
+
+#: wp-irent.php:533
+#: wp_irent_bak.php:560
+#: wp_irent_bak_2.php:477
+msgid "Spanish"
+msgstr ""
+
+#: wp-irent.php:534
+#: wp_irent_bak.php:561
+#: wp_irent_bak_2.php:478
+msgid "Dutch"
+msgstr ""
+
+#: wp-irent.php:535
+#: wp_irent_bak.php:562
+#: wp_irent_bak_2.php:479
+msgid "French"
+msgstr ""
+
+#: wp-irent.php:536
+#: wp_irent_bak.php:563
+#: wp_irent_bak_2.php:480
+msgid "German"
+msgstr ""
+
+#: wp-irent.php:545
+#: wp_irent_bak.php:565
+#: wp_irent_bak_2.php:482
+msgid "Choose the language in which the accommodation search and booking engine will be displayed."
+msgstr ""
+
+#: wp-irent.php:549
+#: wp_irent_bak.php:569
+#: wp_irent_bak_2.php:486
+msgid "Colour palette:"
+msgstr ""
+
+#: wp-irent.php:555
+#: wp_irent_bak.php:639
+#: wp_irent_bak_2.php:501
+msgid "Beige"
+msgstr ""
+
+#: wp-irent.php:556
+#: wp_irent_bak.php:640
+#: wp_irent_bak_2.php:502
+msgid "Blue"
+msgstr ""
+
+#: wp-irent.php:557
+#: wp_irent_bak.php:641
+#: wp_irent_bak_2.php:503
+msgid "Green"
+msgstr ""
+
+#: wp-irent.php:558
+#: wp_irent_bak.php:642
+#: wp_irent_bak_2.php:504
+msgid "Grey"
+msgstr ""
+
+#: wp-irent.php:559
+#: wp_irent_bak.php:643
+#: wp_irent_bak_2.php:505
+msgid "Red"
+msgstr ""
+
+#: wp-irent.php:560
+#: wp_irent_bak.php:644
+#: wp_irent_bak_2.php:506
+msgid "Light blue"
+msgstr ""
+
+#: wp-irent.php:561
+#: wp_irent_bak.php:645
+#: wp_irent_bak_2.php:507
+msgid "Orange"
+msgstr ""
+
+#: wp-irent.php:570
+#: wp_irent_bak.php:647
+#: wp_irent_bak_2.php:509
+msgid "Select from the options the colour palette that best suits your website."
+msgstr ""
+
+#: wp-irent.php:574
+#: wp_irent_bak.php:651
+#: wp_irent_bak_2.php:513
+msgid "Google Map Api Key:"
+msgstr ""
+
+#: wp-irent.php:577
+#: wp_irent_bak.php:654
+#: wp_irent_bak_2.php:516
+msgid "For the accommodation map to display correctly, you must have the map code generated in your Google Cloud Platform account."
+msgstr ""
+
+#: wp-irent.php:581
+#: wp_irent_bak.php:658
+#: wp_irent_bak_2.php:520
+msgid "Destination Page:"
+msgstr ""
+
+#: wp-irent.php:588
+#: wp_irent_bak.php:665
+#: wp_irent_bak_2.php:527
+msgid "None Page"
+msgstr ""
+
+#: wp-irent.php:598
+#: wp_irent_bak.php:681
+#: wp_irent_bak_2.php:543
+msgid "Select the page where you want the accommodation search and booking engine to be displayed."
+msgstr ""
+
+#: wp-irent.php:605
+#: wp_irent_bak.php:688
+#: wp_irent_bak_2.php:550
+msgid "ShortCode:"
+msgstr ""
+
+#: wp-irent.php:609
+msgid "View current page"
+msgstr ""
+
+#: wp-irent.php:611
+#: wp_irent_bak.php:691
+#: wp_irent_bak_2.php:553
+msgid "Copy and paste the following shortcode into the desired page:"
+msgstr ""
+
+#: wp-irent.php:617
+msgid "Clear ShortCode:"
+msgstr ""
+
+#: wp-irent.php:619
+msgid "Clear"
+msgstr ""
+
+#: wp-irent.php:621
+msgid "If you need to clear the ShortCode from all your pages, please click the button. Please note, this action cannot be undone."
+msgstr ""
+
+#: wp-irent.php:631
+#: wp_irent_bak.php:703
+#: wp_irent_bak_2.php:564
+msgid "Save Changes"
+msgstr ""
+
+#: wp-irent.php:632
+#: wp_irent_bak.php:703
+#: wp_irent_bak_2.php:565
+msgid "Log Out"
+msgstr ""
+
+#: wp-irent.php:653
+#: wp_irent_bak.php:371
+#: wp_irent_bak_2.php:585
+msgid "Booking System - Channel Gateway - Management"
+msgstr ""
+
+#: wp-irent.php:656
+#: wp_irent_bak.php:374
+#: wp_irent_bak_2.php:588
+msgid "Welcome to your holiday rental booking system"
+msgstr ""
+
+#: wp-irent.php:659
+#: wp_irent_bak.php:377
+#: wp_irent_bak_2.php:591
+msgid "User:"
+msgstr ""
+
+#: wp-irent.php:663
+#: wp_irent_bak.php:381
+#: wp_irent_bak_2.php:595
+msgid "Password:"
+msgstr ""
+
+#: wp-irent.php:668
+#: wp_irent_bak.php:386
+#: wp_irent_bak_2.php:600
+msgid "Login"
+msgstr ""
